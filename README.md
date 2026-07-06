@@ -5,10 +5,14 @@
 - Models extracted from the game files (with FModel). MMD models support is limited
 - [GT Tonemapper](https://github.com/festivities/Blender-GT-Tonemapper) is a soft requirement but highly recommended for better visuals
 - [Blender-WuWa-Character-Setup](https://github.com/fnoji/Blender-WuWa-Character-Setup) for easier and faster setup
-# Example Renders
+## Example Renders
 <img src="https://i.imgur.com/TtkMLff.jpeg" width="600">
 <img src="https://i.imgur.com/Jkm2I3o.jpeg" width="600">
 <img src="https://i.imgur.com/lNl63jF.jpeg" width="600">
+
+**Tacet Mark placement - GUSTLING WATERS shader**
+
+[![Tacet Mark placement - GUSTLING WATERS shader](https://thumbs.video-to-markdown.com/93c21480.jpg)](https://youtu.be/b67oGK8DIhw)
 
 ## Credits
 - Initial GI shader by **bonnyanimations**
