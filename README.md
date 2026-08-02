@@ -3,8 +3,7 @@
 ## Requirements
 - Blender Goo 4.0+
 - Models extracted from the game files (with FModel). MMD models support is limited
-- [GT Tonemapper](https://github.com/festivities/Blender-GT-Tonemapper) is a soft requirement but highly recommended for better visuals
-- [Blender-WuWa-Character-Setup](https://github.com/fnoji/Blender-WuWa-Character-Setup) for easier and faster setup
+- [Blender-WuWa-Character-Setup](https://github.com/nytsjared/Blender-WuWa-Character-Setup-GUSTLING) for easier and faster setup
 ## Example Renders
 <img src="https://i.imgur.com/TtkMLff.jpeg" width="600">
 <img src="https://i.imgur.com/Jkm2I3o.jpeg" width="600">
